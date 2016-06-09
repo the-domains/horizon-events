@@ -1,0 +1,28 @@
+name: Horizon Events
+favicon: null
+layout_spectrum: 0.4657033598050475
+typography_spectrum: 0.6929223681800067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4192947067786008
+  lightness: 0.8271758363116533
+  saturation: 0.8767907393630594
+  rhythmicContrast: 0.6661295359954238
+purpose: []
