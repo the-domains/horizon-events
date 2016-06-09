@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Horizon Events]]></title>
+        <description><![CDATA[Horizon Events]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 02:26:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/607bbdc6-735a-4e33-8b39-a715bdec6a27.jpg">]]></description>
+            <link>undefinedhorizon-events-imagine-music-festival-phase-2-lineup-annou/index.html</link>
+            <guid isPermaLink="false">5eac09b5-4b9b-495c-901f-ae3aa6abb42f</guid>
+            <pubDate>Thu, 09 Jun 2016 02:26:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
